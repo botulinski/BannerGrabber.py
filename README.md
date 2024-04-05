@@ -28,3 +28,5 @@ Features
 TESTED ON Apache/2.4.58
 
 Feel free to adjust and expand upon this README as needed.
+
+Author: Michał Botuliński
